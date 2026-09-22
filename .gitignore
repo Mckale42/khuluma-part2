@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Node / API
+**/node_modules/
+**/dist/
+**/.env
+khuluma-api/.env
+
+# Android
+**/.gradle/
+**/build/
+!app/build.gradle.kts
+!build.gradle.kts
+**/.idea/
+**/*.iml
+**/local.properties
+**/.cxx/
+**/captures/
