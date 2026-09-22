@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298352358803",
+    "project_id": "khuluma-prog7314",
+    "storage_bucket": "khuluma-prog7314.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298352358803:android:0ee8d8fb7a7e53f9f26466",
+        "android_client_info": {
+          "package_name": "com.viltrumites.khuluma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298352358803-ieql0ts1mda7prim0en2sra7hpcsq765.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viltrumites.khuluma",
+            "certificate_hash": "4522e0398e3c7f11e5a68a45696b3d90002da48d"
+          }
+        },
+        {
+          "client_id": "298352358803-iauhj3n8npu3tqspi638ibc12vc3h8nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZlkvvZM52qBvpeMFZcW5B-jbpqxFFek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298352358803-iauhj3n8npu3tqspi638ibc12vc3h8nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

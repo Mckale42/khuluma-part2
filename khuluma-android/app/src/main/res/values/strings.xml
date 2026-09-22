@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Khuluma</string>
+    <!-- default_web_client_id is generated automatically by the google-services
+         plugin from google-services.json (it contains the OAuth 2.0 Web client
+         once Google Sign-In is enabled). Do NOT define it here or it duplicates. -->
+</resources>
