@@ -17,3 +17,6 @@ khuluma-api/.env
 **/local.properties
 **/.cxx/
 **/captures/
+
+# Helper scripts
+*_commits.sh
