@@ -1,5 +1,7 @@
 # Khuluma — Android App
 
+[![Khuluma CI](https://github.com/Mckale42/khuluma-part2/actions/workflows/ci.yml/badge.svg)](https://github.com/Mckale42/khuluma-part2/actions/workflows/ci.yml)
+
 **Gamified, AI-assisted app for learning South African languages (starting with isiZulu).**
 PROG7314 / OPSC7312 — POE Part 2 · Group: *The Viltrumites*
 
